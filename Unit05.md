@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME101: Introduction to Mechanical Engineering"
+course_description: "An introductory survey of the various types of engineering and elementary design principles, with particular emphasis on mathematics and physics important in engineering, technical drawing, and numerical computing."
+next: ../../../
+previous: ../Unit04
+---
 -   **Unit 5: Final Exam**  
     -   **Final Exam: The Saylor Foundation’s ME101 Final Exam**
 

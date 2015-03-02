@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME101: Introduction to Mechanical Engineering"
+course_description: "An introductory survey of the various types of engineering and elementary design principles, with particular emphasis on mathematics and physics important in engineering, technical drawing, and numerical computing."
+next: ../Unit02
+previous: ../Intro
+---
 -   **Unit 1: Introduction to Mechanical Engineering**  
 
     *The first unit of this course will allow you to take a close look
