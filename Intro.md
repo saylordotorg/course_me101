@@ -137,3 +137,11 @@ after completing the course.
  We encourage you to also take notes as you work through the course
 materials.  These notes will be useful as you prepare for the final
 exam.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/me101/Unit01/)
+- [Unit 2](https://legacy.saylor.org/me101/Unit02/)
+- [Unit 3](https://legacy.saylor.org/me101/Unit03/)
+- [Unit 4](https://legacy.saylor.org/me101/Unit04/)
+- [Unit 5](https://legacy.saylor.org/me101/Unit05/)
