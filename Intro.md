@@ -155,3 +155,4 @@ exam.
 - [Unit 3](https://legacy.saylor.org/me101/Unit03/)
 - [Unit 4](https://legacy.saylor.org/me101/Unit04/)
 - [Unit 5](https://legacy.saylor.org/me101/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME101/ME101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME101/ME101-FinalExam-Answers.html)
