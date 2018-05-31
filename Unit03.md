@@ -166,7 +166,7 @@
 
         Link: Youngstown State University: Javed Alam’s [“SCILAB
         Functions Dealing With Data
-        Fitting”](http://www.eng.ysu.edu/~jalam/engr6924s07/sessions/session27/session27.htm) (HTML)  
+        Fitting”](https://web.archive.org/web/20160319103835/http://www.eng.ysu.edu/~jalam/engr6924s07/sessions/session27/session27.htm) (HTML)  
             
          Instructions: Please click on the link above and read the
         entire webpage.  This resource will help you learn about data
