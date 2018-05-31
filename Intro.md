@@ -106,7 +106,7 @@ following materials:
     Sketching”](http://www.me.umn.edu/courses/me2011/handouts/drawing/blanco-tutorial.html)
 -   American Society of Mechanical Engineers: [“Integrated Design
     Engineering Activity Series
-    (IDEAS)”](http://www.asme.org/groups/educational-resources/integrated-design-engineering-activity-series)
+    (IDEAS)”](https://community.asme.org/pre-college_affinity_group/w/wiki/9011.ideas-integrated-design-engineering-activity-series.aspx)
 
 **Requirements for Completion:** In order to complete this course, you
 will need to work through each unit and all of its assigned materials. 
