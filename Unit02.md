@@ -86,7 +86,7 @@
             
          Also available in:  
 
-        [PDF](http://www.nspe.org/resources/pdfs/Ethics/CodeofEthics/Code-2007-July.pdf)  
+        [PDF](https://www.nspe.org/sites/default/files/resources/pdfs/Ethics/CodeofEthics/Code-2007-July.pdf)  
            
          Instructions: Please click on the link above and read the
         entire webpage.  The National Society of Professional Ethics
@@ -140,7 +140,7 @@
         collaborate?  
            
          Choose two other case scenarios from [this
-        page](http://www.onlineethics.org/Resources/Cases.aspx) and
+        page](http://www.onlineethics.org/Resources.aspx?resource-type=29_772&fields=25_660) and
         repeat the exercise. List specific topics in those scenarios in
         which mechanical engineers might contribute to the outcome.  
            
@@ -177,8 +177,8 @@
         Problem” and “Sunnyvale”**
 
         Links: Texas A&M University: Michael Pritchard’s [“A Tourist
-        Problem”](http://ethics.tamu.edu/Portals/3/1992Cases/HonestyAndTruthfulness/ethics.tamu.edu_pritchar_tourist.pdf) and
-        [“Sunnyvale”](http://ethics.tamu.edu/Portals/3/1992Cases/QualityControl/ethics.tamu.edu_pritchar_sunnyval.pdf) (PDF)
+        Problem”](http://ethics.tamu.edu/wp-content/uploads/sites/7/2017/04/ethics.tamu_.edu_pritchar_tourist.pdf) and
+        [“Sunnyvale”](http://ethics.tamu.edu/wp-content/uploads/sites/7/2017/04/ethics.tamu_.edu_pritchar_sunnyval.pdf) (PDF)
 
          
 

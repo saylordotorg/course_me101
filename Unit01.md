@@ -137,7 +137,7 @@
 
         Link: University of California at Berkeley’s [“Major Field and
         Research
-        Areas”](http://www.me.berkeley.edu/Grad/Areas/disc.html)
+        Areas”](http://www.me.berkeley.edu/research/research-areas-and-major-fields)
         (HTML)  
             
          Instructions: Please click on the link above and read each of
