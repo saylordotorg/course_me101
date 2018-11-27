@@ -156,7 +156,7 @@ previous: ../Unit02
 
         Link: The Saylor Foundation’s [“Solving Nonlinear Equations with
         Iterative
-        Methods”](http://www.saylor.org/site/wp-content/uploads/2012/09/3.4.2-Solving-Nonlinear-Equations-with-Iterative-Methods.pdf) (PDF)  
+        Methods”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/3.4.2-Solving-Nonlinear-Equations-with-Iterative-Methods.pdf) (PDF)  
             
          Instructions: Please click on the link above and read the
         entire document.  Follow the example and perform the exercise.
@@ -173,7 +173,7 @@ previous: ../Unit02
 
         Link: Youngstown State University: Javed Alam’s [“SCILAB
         Functions Dealing With Data
-        Fitting”](http://www.eng.ysu.edu/~jalam/engr6924s07/sessions/session27/session27.htm) (HTML)  
+        Fitting”](https://web.archive.org/web/20160319103835/http://www.eng.ysu.edu/~jalam/engr6924s07/sessions/session27/session27.htm) (HTML)  
             
          Instructions: Please click on the link above and read the
         entire webpage.  This resource will help you learn about data

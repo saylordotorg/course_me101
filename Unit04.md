@@ -38,7 +38,7 @@ previous: ../Unit03
 
         Link: Massachusetts Institute of Technology: TechTV’s [“Design
         for
-        Success”](http://techtv.mit.edu/collections/2007videos/videos/157-2007---a-design-for-success)
+        Success”](https://web.archive.org/web/20170422105346/https://techtv.mit.edu/collections/2007videos/videos/157-2007---a-design-for-success)
         (Adobe Flash)  
             
          Instructions: Please click on the link above and watch the
@@ -65,7 +65,7 @@ previous: ../Unit03
 
         Link: Industry Initiatives for Science and Math Education:
         Seyyed Khandani’s [“Engineering Design
-        Process”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME101-4.1-Engineering-Design-Process.pdf) (PDF)  
+        Process”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME101-4.1-Engineering-Design-Process.pdf) (PDF)  
             
          Instructions: Please click on the link above and read the
         entire article.  
@@ -73,7 +73,7 @@ previous: ../Unit03
          Terms of Use: This resource has been reposted by the kind
         permission of Seyyed Khandani, and can be viewed in its original
         form
-        [here](http://www.iisme.org/etp/HS%20Engineering-%20Engineering.pdf).  Please
+        [here](https://web.archive.org/web/20120916080643/http://iisme.org/etp/HS%20Engineering-%20Engineering.pdf).  Please
         note that this material is under copyright and may not be
         reproduced in any capacity without the explicit permission of
         the copyright holder.
@@ -111,7 +111,7 @@ previous: ../Unit03
 
         Link: American Society of Mechanical Engineers’ [“Integrated
         Design Engineering Activity Series
-        (IDEAS)”](http://www.asme.org/groups/educational-resources/integrated-design-engineering-activity-series) (HTML)  
+        (IDEAS)”](https://community.asme.org/pre-college_affinity_group/w/wiki/9011.ideas-integrated-design-engineering-activity-series.aspx) (HTML)  
             
          Instructions: Please click on the link above and scroll down
         the left-hand menu for a list of possible project problems.
@@ -142,7 +142,7 @@ previous: ../Unit03
         Instructions”**
 
         Link: The Saylor Foundation’s [“ME101 Design Project
-        Instructions”](http://www.saylor.org/site/wp-content/uploads/2012/09/4.4-Design-Project-Instructions.pdf) (PDF)  
+        Instructions”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/4.4-Design-Project-Instructions.pdf) (PDF)  
             
          Instructions: Please click on the link above, read the entire
         document, and complete the activity as instructed.  

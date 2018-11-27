@@ -144,7 +144,7 @@ previous: ../Intro
 
         Link: University of California at Berkeley’s [“Major Field and
         Research
-        Areas”](http://www.me.berkeley.edu/Grad/Areas/disc.html)
+        Areas”](http://www.me.berkeley.edu/research/research-areas-and-major-fields)
         (HTML)  
             
          Instructions: Please click on the link above and read each of
@@ -254,7 +254,7 @@ previous: ../Intro
         Processes/Units”**
 
         Link: Wikibooks [“Introduction to Chemical Engineering
-        Processes/Units”](http://www.saylor.org/site/wp-content/uploads/2012/09/1.3-Introduction-to-Chemical-Engineering-Processes.pdf) (PDF)  
+        Processes/Units”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/1.3-Introduction-to-Chemical-Engineering-Processes.pdf) (PDF)  
             
          Instruction: Please click on the link above and read the entire
         text, then repeat the example calculations on your own. This

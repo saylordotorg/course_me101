@@ -93,7 +93,7 @@ previous: ../Unit01
             
          Also available in:  
 
-        [PDF](http://www.nspe.org/resources/pdfs/Ethics/CodeofEthics/Code-2007-July.pdf)  
+        [PDF](https://www.nspe.org/sites/default/files/resources/pdfs/Ethics/CodeofEthics/Code-2007-July.pdf)  
            
          Instructions: Please click on the link above and read the
         entire webpage.  The National Society of Professional Ethics
@@ -147,7 +147,7 @@ previous: ../Unit01
         collaborate?  
            
          Choose two other case scenarios from [this
-        page](http://www.onlineethics.org/Resources/Cases.aspx) and
+        page](http://www.onlineethics.org/Resources.aspx?resource-type=29_772&fields=25_660) and
         repeat the exercise. List specific topics in those scenarios in
         which mechanical engineers might contribute to the outcome.  
            
@@ -184,8 +184,8 @@ previous: ../Unit01
         Problem” and “Sunnyvale”**
 
         Links: Texas A&M University: Michael Pritchard’s [“A Tourist
-        Problem”](http://ethics.tamu.edu/Portals/3/1992Cases/HonestyAndTruthfulness/ethics.tamu.edu_pritchar_tourist.pdf) and
-        [“Sunnyvale”](http://ethics.tamu.edu/Portals/3/1992Cases/QualityControl/ethics.tamu.edu_pritchar_sunnyval.pdf) (PDF)
+        Problem”](http://ethics.tamu.edu/wp-content/uploads/sites/7/2017/04/ethics.tamu_.edu_pritchar_tourist.pdf) and
+        [“Sunnyvale”](http://ethics.tamu.edu/wp-content/uploads/sites/7/2017/04/ethics.tamu_.edu_pritchar_sunnyval.pdf) (PDF)
 
          
 
@@ -336,7 +336,7 @@ previous: ../Unit01
 
         Link: Carnegie Mellon University: Mihai Budiu’s [“Some Rules for
         Making a
-        Presentation”](http://www.saylor.org/site/wp-content/uploads/2013/04/ME101-2.5.2-PresentationRules.pdf) (PDF)  
+        Presentation”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME101-2.5.2-PresentationRules.pdf) (PDF)  
            
          Instructions: Read this document. Make sure to explore the
         embedded hyperlinks for additional information. This sort of
@@ -356,7 +356,7 @@ previous: ../Unit01
 
         Link: Pennsylvania State University: Joe Schall’s [“Oral
         Presentation and
-        Powerpoint”](http://www.saylor.org/site/wp-content/uploads/2013/04/ME101-2.5.2-OralPresentationPowerpoint.pdf) (PDF)  
+        Powerpoint”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME101-2.5.2-OralPresentationPowerpoint.pdf) (PDF)  
            
          Instructions: Read this entire document. This sort of
         concisely-presented information is easily forgotten if you do
