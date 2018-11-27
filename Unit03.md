@@ -149,7 +149,7 @@
 
         Link: The Saylor Foundation’s [“Solving Nonlinear Equations with
         Iterative
-        Methods”](http://www.saylor.org/site/wp-content/uploads/2012/09/3.4.2-Solving-Nonlinear-Equations-with-Iterative-Methods.pdf) (PDF)  
+        Methods”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/3.4.2-Solving-Nonlinear-Equations-with-Iterative-Methods.pdf) (PDF)  
             
          Instructions: Please click on the link above and read the
         entire document.  Follow the example and perform the exercise.
