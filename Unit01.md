@@ -247,7 +247,7 @@
         Processes/Units”**
 
         Link: Wikibooks [“Introduction to Chemical Engineering
-        Processes/Units”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/1.3-Introduction-to-Chemical-Engineering-Processes.pdf) (PDF)  
+        Processes/Units”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/1.3-Introduction-to-Chemical-Engineering-Processes.pdf) (PDF)  
             
          Instruction: Please click on the link above and read the entire
         text, then repeat the example calculations on your own. This

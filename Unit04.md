@@ -58,7 +58,7 @@
 
         Link: Industry Initiatives for Science and Math Education:
         Seyyed Khandani’s [“Engineering Design
-        Process”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME101-4.1-Engineering-Design-Process.pdf) (PDF)  
+        Process”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME101-4.1-Engineering-Design-Process.pdf) (PDF)  
             
          Instructions: Please click on the link above and read the
         entire article.  
@@ -135,7 +135,7 @@
         Instructions”**
 
         Link: The Saylor Foundation’s [“ME101 Design Project
-        Instructions”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/4.4-Design-Project-Instructions.pdf) (PDF)  
+        Instructions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/4.4-Design-Project-Instructions.pdf) (PDF)  
             
          Instructions: Please click on the link above, read the entire
         document, and complete the activity as instructed.  
