@@ -336,7 +336,7 @@ previous: ../Unit01
 
         Link: Carnegie Mellon University: Mihai Budiu’s [“Some Rules for
         Making a
-        Presentation”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME101-2.5.2-PresentationRules.pdf) (PDF)  
+        Presentation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ME101-2.5.2-PresentationRules.pdf) (PDF)  
            
          Instructions: Read this document. Make sure to explore the
         embedded hyperlinks for additional information. This sort of
@@ -356,7 +356,7 @@ previous: ../Unit01
 
         Link: Pennsylvania State University: Joe Schall’s [“Oral
         Presentation and
-        Powerpoint”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME101-2.5.2-OralPresentationPowerpoint.pdf) (PDF)  
+        Powerpoint”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ME101-2.5.2-OralPresentationPowerpoint.pdf) (PDF)  
            
          Instructions: Read this entire document. This sort of
         concisely-presented information is easily forgotten if you do
